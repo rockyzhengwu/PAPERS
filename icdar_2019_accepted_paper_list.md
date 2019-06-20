@@ -1,6 +1,5 @@
 |id|author|title|paper|code|
 |:---|:---|:---|:---|:---|
-|Paper #|Authors|Title| |
 |2|Rohit Saluja, Ayush Maheshwari, Ganesh Ramakrishnan, Parag Chaudhuri and Mark Carman|OCR On-the-Go: Robust End-to-end Systems for Reading License Plates and Street Signs| |
 |3|Rohit Saluja, Mayur Punjabi, Mark Carman, Ganesh Ramakrishnan and Parag Chaudhuri|Sub-word Embeddings for OCR Corrections in highly Fusional Indic Languages| |
 |4|Feng Lin, Chuang Li, Zhiyong Wang, Gang Yu, Liou Yuan and Haiqiang Wang|DeepHSV: User-independent Offline Signature Verification Using Two-Channel CNN| |
