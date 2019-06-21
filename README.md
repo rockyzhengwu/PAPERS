@@ -1,4 +1,4 @@
-# ICDAR papers and  code
+# Papers 
 
 
 ## CVPR
