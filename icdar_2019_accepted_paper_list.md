@@ -5,7 +5,7 @@
 |4|Feng Lin, Chuang Li, Zhiyong Wang, Gang Yu, Liou Yuan and Haiqiang Wang|DeepHSV: User-independent Offline Signature Verification Using Two-Channel CNN| |
 |5|Chris Tensmeyer, Mike Brodie, Daniel Saunders and Tony Martinez|Generating Realistic Binarization Data with Generative Adversarial Networks| |
 |6|Christopher Tensmeyer, Vlad Morariu, Brian Price, Scott Cohen and Tony Martinez|Deep Splitting and Merging for Table Structure Decomposition| |
-|8|Junyang Cai, Liangrui Peng, Yejun Tang, Changsong Liu and Pengchao Li|TH-GAN: Generative Adversarial Network based Transfer Learning for Historical Chinese Character Recognition| |
+|8|Junyang Cai, Liangrui Peng, Yejun Tang, Changsong Liu and Pengchao Li|TH-GAN: Generative Adversarial Network based Transfer Learning for Historical Chinese Character Recognition|https://arxiv.org/abs/1801.08624 | https://github.com/changebo/HCCG-CycleGAN
 |9|Victor Storchan and Jocelyn Beauchesne|Data Augmentation via Adversarial Networks for Optical Character Recognition| |
 |11|Xiaoshuo Li, Tiezhu Yue, Xuanping Huang, Zhe Yang and Gang Xu|BAGS: An automatic homework grading system using the pictures taken by smart phones| |
 |14|Chandranath Adak, Bidyut B. Chaudhuri, Chin-Teng Lin and Michael Blumenstein|Detecting Named Entities in Unstructured Bengali Manuscript Images| |
