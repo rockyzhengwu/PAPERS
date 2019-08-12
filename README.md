@@ -9,3 +9,6 @@
 
 ## ICDAR
 * [ICDAR 2019](./icdar_2019_accepted_paper_list.md)
+
+## ACL 
+  [ACL_2019](./acl_2019.md)
